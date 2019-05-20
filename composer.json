@@ -1,5 +1,5 @@
 {
-    "name": "josse/validations",
+    "name": "blixx/validations",
     "description": "Some handy extra validations for Laravel",
     "type": "library",
     "license": "None",
