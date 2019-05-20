@@ -1,0 +1,17 @@
+{
+    "name": "josse/validations",
+    "description": "Some handy extra validations for Laravel",
+    "type": "library",
+    "license": "None",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Blixx\\Validations\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Blixx\\Validations\\": "src"
+        }
+    }
+}
